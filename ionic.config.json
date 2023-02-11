@@ -1,0 +1,7 @@
+{
+  "name": "Music FTH",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
